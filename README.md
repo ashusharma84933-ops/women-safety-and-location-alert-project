@@ -1,2 +1,4 @@
 # women-safety-and-location-alert-project
 short project intro
+The Women Safety & Location Alert App is a mobile application designed to enhance personal safety by providing real-time location sharing,emergency alerts,and quick-access safety features.
+In emergency situations,the app allows users to instantly notify trusted contacts and authorities with their live GPS location.
